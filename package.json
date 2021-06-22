@@ -1,0 +1,23 @@
+{
+  "name": "portainer-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aggregate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slash2223456/portainer-template.git"
+  },
+  "author": "Kris Hamade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slash2223456/portainer-template/issues"
+  },
+  "homepage": "https://github.com/slash2223456/portainer-template#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
